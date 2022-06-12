@@ -1,4 +1,4 @@
-**Update**:
+*Update*:
 This repository is no longer maintained. Please visit our updated project here: https://github.com/AutonomousFieldRoboticsLab/SVIn, it includes supports for Ubuntu 18.04 and 20.04, along with some other new features. 
 ============================================================================================
 SVIn2 is a tightly coupled Sonar-Visual-Inertial-Depth formulation of Simultaneous Localization and Mapping (SLAM) algorithm for real-time Underwater navigation. The package contains two modules:
